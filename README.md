@@ -1,4 +1,7 @@
 # lecsicon-gen
+
+### A JS application that plays acrostics with gpt3.5-turbo. [demo](https://karliezhao.github.io/lecsicon/)
+
 ```
 $ git clone https://github.com/KarlieZhao/lecsicon-gen.git
 $ cd lecsicon-gen
